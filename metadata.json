@@ -1,0 +1,7 @@
+{
+  "name": "Test",
+  "description": "I am TST",
+  "symbol": "TST",
+  "decimals": 9,
+  "image": "https://raw.githubusercontent.com/Meowmimo/testToken/main/logoTST.png"
+}
